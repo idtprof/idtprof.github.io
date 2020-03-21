@@ -3,7 +3,7 @@ published: true
 title: And now for something completely Python
 category: python
 ---
-![Python]({{site.baseurl}}/https://www.python.org/static/community_logos/python-logo-generic.svg)
+![Python]({{site.baseurl}}/_posts/python-logo-inkscape.svg)
 
 There's been plenty of discussion in one of my classes about Python programming -- what it is, where to learn it and what to use to get started. After suggesting several resources to some of my students, I remembered an old post in a previous blog where I listed several links to pertinent sites, and while some are still valuable, many of them are showing their age (this was back in the v2 days).
 
