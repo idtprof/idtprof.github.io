@@ -1,28 +1,12 @@
 ---
 layout: page
-title: About
-permalink: /about/
-published: true
----
----
-layout: page
 title: About me
 permalink: /about/
 published: true
 ---
-
-<img width="125" style="float: right; margin: 0 0 10px 10px" src="https://lh4.googleusercontent.com/-06KxVXTGwcs/VIxke0iNQ-I/AAAAAAAAlTo/aCUnGPw6jmk/s300-no/paco_WPmug1-300x300.jpg">**Hello world!** I’m a member of the IT Faculty at <a title="El Centro College" href="http://www.elcentrocollege.edu/" target="_blank">El Centro College</a> in the Dallas County Community College District for the Internet Development Technologies program. I currently teach Digital Imaging and Web Design classes using Adobe Photoshop and Adobe Dreamweaver, plus HTML5 and CSS3 coding. I also teach Web Project Management, Portfolio Development and WordPress courses.
+**Hello world!** I’m a member of the IT Faculty at <a title="El Centro College" href="http://www.elcentrocollege.edu/" target="_blank">El Centro College</a> in the Dallas County Community College District for the Internet Development Technologies program. I currently teach Digital Imaging and Web Design classes using Adobe Photoshop and Adobe Dreamweaver, plus HTML5 and CSS3 coding. I also teach Web Project Management, Portfolio Development and WordPress courses.
 
 Previously, I worked in the newspaper industry for close to two decades, most recently with <a title="The Dallas Morning News" href="http://www.dallasnews.com/" target="_blank">*The Dallas Morning News*</a> at its Spanish product, <a title="Al Día" href="http://www.aldiatx.com/" target="_blank">*Al Día*</a>. Wrangled with CMS vendor to optimize the paper’s online news delivery and design, serve as videographer and rich media editor of the site. Assisted editorial staff with graphic and news page design duties as needed, and worked directly with the marketing department to deliver online and print graphic and social media solutions.
-
-<div style="text-align: center;">
-
-<img width="150" style="margin: 0 5px 5px 5px; border-width: 1px; border-style: solid; border-color: #ccc;" src="https://lh3.googleusercontent.com/-OyypOTyHPZ0/VIxkVeFHtsI/AAAAAAAAlTQ/j5-0masnHc0/w155-h161-no/aldia_thumb01.jpg">
-<img width="150" style="margin: 0 5px 5px 5px; border-width: 1px; border-style: solid; border-color: #ccc;" src="https://lh3.googleusercontent.com/-muXlStkTj-A/VIxkVtpcQnI/AAAAAAAAlTc/haOj8HZysxU/w155-h161-no/aldia_thumb02.jpg">
-<img width="150" style="margin: 0 5px 5px 5px; border-width: 1px; border-style: solid; border-color: #ccc;" src="https://lh3.googleusercontent.com/-8BSPHaYgHkE/VIxkVjC-vrI/AAAAAAAAlTU/wlQqqqUHlXc/w155-h161-no/aldia_thumb03.jpg">
-<img width="150" style="margin: 0 5px 5px 5px; border-width: 1px; border-style: solid; border-color: #ccc;" src="https://lh3.googleusercontent.com/-11DzZouSLDk/VIxkWI8MP-I/AAAAAAAAlTg/lgBUQeybRlw/w155-h161-no/aldia_thumb04.jpg">
-
-</div>
 
 ### Previously
 
@@ -44,4 +28,4 @@ As per usual, please pardon the mess. The best is yet to come!
 
 In the meantime please visit my blog, where there’s quite the smattering of interesting and uninteresting posts.
 
-[Contact me](mailto:contact@paco.org) &#124; [Resume](https://franciscorodriguez.github.io/resume/)
+[Contact me](mailto:firodriguez@dcccd.edu) &#124; [Resume](https://franciscorodriguez.github.io/resume/)
