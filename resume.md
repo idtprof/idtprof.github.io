@@ -20,7 +20,7 @@ firodriguez@dcccd.edu
 - B.A. – Journalism, News-Editorial
 
 ## Certifications
-- Coursera CIW Advanced HTML5 & CSS3 Specialist
+- Coursera Technical Support Fundamentals
 - CompTIA Project+ ce
 - CompTIA Network+
 - CompTIA Linux+
