@@ -1,11 +1,11 @@
-Francisco I. Rodriguez
-==================
+# Francisco I. Rodriguez
+
 firodriguez@dcccd.edu
 
 ## Education
-**Western Governor's University — In progress**
+**Western Governor's University — 2017**
 
-- B.S. — Software Development
+- B.S. — Information Technology
 
 **El Centro College – 2010**
 
