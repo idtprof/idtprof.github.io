@@ -1,3 +1,10 @@
+---
+layout: page
+title: Francisco I. Roddriguez
+permalink: /resume/
+published: true
+---
+
 # Francisco I. Rodriguez
 
 firodriguez@dcccd.edu
