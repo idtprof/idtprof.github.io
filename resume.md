@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Francisco I. Roddriguez
+title: Résumé
 permalink: /resume/
 published: true
 ---
