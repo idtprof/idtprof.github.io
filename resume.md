@@ -23,10 +23,12 @@ firodriguez@dcccd.edu
 - B.A. – Journalism, News-Editorial
 
 ## Certifications
+- Coursera CIW Advanced HTML5 & CSS3 Specialist
 - CompTIA Project+ ce
 - CompTIA Network+
 - CompTIA Linux+
 - LPIC-1 Linux Server Professional Certification
+- CIW Advanced HTML5 & CSS3 Specialist
 - CIW Web Design Specialist
 - CIW v5 Database Design Specialist
 - Adobe Certified Associate in Web Communication using Dreamweaver
@@ -100,5 +102,3 @@ firodriguez@dcccd.edu
 - Administration reporter, 1989-1990
 - Managing Editor, 1990-1991
 - Editor, 1991-1992
-
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
