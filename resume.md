@@ -1,12 +1,9 @@
 ---
 layout: page
-title: Résumé
+title: Francisco I. Rodríguez
 permalink: /resume/
 published: true
 ---
-
-# Francisco I. Rodriguez
-
 firodriguez@dcccd.edu
 
 ## Education
