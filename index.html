@@ -13,7 +13,7 @@ layout: default
       </div>
       
       <div class="date">
-        Posted {{ post.date | date: "%B %e, %Y" }} under <span style="color:#A9A9A9">
+        Posted {{ post.date | date: "%B %e, %Y" }} under
         
         <div class="post-categories">
   {% if post %}
@@ -26,8 +26,6 @@ layout: default
   {% unless forloop.last %}{% endunless %}
   {% endfor %}
 </div>
-        
-        </span>
         
       </div>
 
