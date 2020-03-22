@@ -23,7 +23,7 @@ layout: default
         {% endif %}
         
         {% for category in categories %}
-          <img src="images/tag_icon.svg" width="90%" height="90%">
+          <img src="images/tag_icon.svg" width="10px" height="10px">
         <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
         {% unless forloop.last %}{% endunless %}
   {% endfor %}
