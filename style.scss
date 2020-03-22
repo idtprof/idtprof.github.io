@@ -18,9 +18,13 @@ html {
 }
 
 body {
-	background: $white;
+  background: $white;
   font: 1.1em/1.6 $SansSerif;
   color: $darkGray;
+}
+
+.right {
+  text-align: right;
 }
 
 .container {
