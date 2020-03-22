@@ -28,4 +28,4 @@ As per usual, please pardon the mess. The best is yet to come!
 
 In the meantime please visit my blog, where there’s quite the smattering of interesting and uninteresting posts.
 
-[Home](https://idtprof.com/) &vert; [Contact me](mailto:firodriguez@dcccd.edu) &vert; [Resume](https://idtprof.com/resume/)
+[Home](https://idtprof.com/) &#124; [Contact me](mailto:firodriguez@dcccd.edu) &#124; [Resume](https://idtprof.com/resume/)
