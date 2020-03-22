@@ -13,7 +13,7 @@ layout: default
       </div>
       
       <div class="date">
-        Posted {{ post.date | date: "%B %e, %Y" }} under&nbsp;
+        Posted {{ post.date | date: "%B %e, %Y" }} under
         
         <div class="post-categories">
   {% if post %}
@@ -22,8 +22,8 @@ layout: default
     {% assign categories = page.categories %}
   {% endif %}
   {% for category in categories %}
-  <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
-  {% unless forloop.last %}&nbsp;{% endunless %}
+  <a href="{{site.baseurl}}/categories/#{{category|slugize}}">&nbsp;{{category}}</a>
+  {% unless forloop.last %},{% endunless %}
   {% endfor %}
 </div>
         
