@@ -1,7 +1,6 @@
 ---
 layout: post
 title: This is the winter of our discontent
-category: blog
 published: true
 categories: meta
 ---
