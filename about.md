@@ -30,6 +30,6 @@ In the meantime please visit my blog, where there’s quite the smattering of in
 
 [Contact me](mailto:firodriguez@dcccd.edu) &#124; [Resume](https://idtprof.com/resume/)
 
-<span class="right">
+<div class="right">
   [Home](https://idtprof.com/)
-</span>
+</div>
