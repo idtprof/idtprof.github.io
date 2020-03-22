@@ -10,7 +10,7 @@ layout: default
   </div>
 
   <div class="date">
-    Posted {{ page.date | date: "%B %e, %Y" }} under
+    Posted {{ page.date | date: "%B %e, %Y" }}• tags:
       {% if post %}
         {% assign categories = post.categories %}
       {% else %}
