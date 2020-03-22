@@ -4,6 +4,7 @@ title: About me
 permalink: /about/
 published: true
 ---
+
 **Hello world!** I’m a member of the IT Faculty at <a title="El Centro College" href="http://www.elcentrocollege.edu/" target="_blank">El Centro College</a> in the Dallas County Community College District for the Internet Development Technologies program. I currently teach Digital Imaging and Web Design classes using Adobe Photoshop and Adobe Dreamweaver, plus HTML5 and CSS3 coding. I also teach Web Project Management, Portfolio Development and WordPress courses.
 
 Previously, I worked in the newspaper industry for close to two decades, most recently with <a title="The Dallas Morning News" href="http://www.dallasnews.com/" target="_blank">*The Dallas Morning News*</a> at its Spanish product, <a title="Al Día" href="http://www.aldiatx.com/" target="_blank">*Al Día*</a>. Wrangled with CMS vendor to optimize the paper’s online news delivery and design, serve as videographer and rich media editor of the site. Assisted editorial staff with graphic and news page design duties as needed, and worked directly with the marketing department to deliver online and print graphic and social media solutions.
