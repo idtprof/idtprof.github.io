@@ -100,6 +100,6 @@ firodriguez@dcccd.edu
 - Managing Editor, 1990-1991
 - Editor, 1991-1992
 
-<div class="right">
-  [Home](https://idtprof.com/)
-</div>
+      <div class="date">
+        <span style="color:#A9A9A9"><b>[HOME](https://idtprof.com/)</b></span>
+      </div>
