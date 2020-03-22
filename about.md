@@ -29,3 +29,7 @@ As per usual, please pardon the mess. The best is yet to come!
 In the meantime please visit my blog, where there’s quite the smattering of interesting and uninteresting posts.
 
 [Contact me](mailto:firodriguez@dcccd.edu) &#124; [Resume](https://idtprof.com/resume/)
+
+<span class="right">
+  [Home](https://idtprof.com/)
+</span>
