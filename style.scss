@@ -121,10 +121,11 @@ img {
 
 .date {
   font-size: .8em;
-  text-align: right;
+  float: right;
   color: $gray;
-	display:inline
+	display:inline;
 }
+
 
 // Specify the color of the selection
 ::-moz-selection {
