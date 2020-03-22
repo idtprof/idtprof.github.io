@@ -4,7 +4,7 @@ title: Francisco I. Rodríguez
 permalink: /resume/
 published: true
 ---
-firodriguez@dcccd.edu
+[firodriguez@dcccd.edu](mailto:firodriguez@dcccd.edu)
 
 ## Education
 **Western Governor's University — 2017**
