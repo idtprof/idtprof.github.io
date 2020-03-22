@@ -99,3 +99,5 @@ firodriguez@dcccd.edu
 - Administration reporter, 1989-1990
 - Managing Editor, 1990-1991
 - Editor, 1991-1992
+
+[Home](https://idtprof.com/)
