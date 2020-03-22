@@ -13,22 +13,23 @@ layout: default
       </div>
       
       <div class="date">
-        Posted {{ post.date | date: "%B %e, %Y" }} under
+        Posted {{ post.date | date: "%B %e, %Y" }}
         
         <div class="post-categories">
-  {% if post %}
-    {% assign categories = post.categories %}
-  {% else %}
-    {% assign categories = page.categories %}
-  {% endif %}
-  {% for category in categories %}
-  <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
-  {% unless forloop.last %}{% endunless %}
-  {% endfor %}
-</div>
+          {% if post %}
+            {% assign categories = post.categories %}
+          {% else %}
+        {% assign categories = page.categories %}
+        {% endif %}
         
-      </div>
+        {% for category in categories %}
+          <img src="images/tag_icon.svg" width="90%" height="90%">
+        <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
+        {% unless forloop.last %}{% endunless %}
+  {% endfor %}
+  </div>
+  </div>
 
-    </article>
+  </article>
   {% endfor %}
 </div>
