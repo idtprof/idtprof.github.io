@@ -1,7 +1,13 @@
-<html>
-<h2>You're all signed up!</h2>
-<p>Apparently, you were successful in subscribing (hurray, technology!).</p>
-<p>I don't quite know what happens next, but you can always check out the home page.<p>
-<p><a src = "@https://twitter.com/IDTprof">@idtprof</a></p>
+---
+layout: page
+title: Welcome!
+permalink: /welcome/
+published: true
+---
 
-</html>
+## You're all signed up!
+
+Apparently, you were successful in subscribing (hurray, technology!).
+I don't quite know what happens next, but you can always [check out the home page](https://www.idtprof.com).
+
+[@idtprof](https://twitter.com/IDTprof)
