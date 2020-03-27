@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Digital Calculator Blues"
+title: The Digital Calculator Blues
 published: true
 ---
 
