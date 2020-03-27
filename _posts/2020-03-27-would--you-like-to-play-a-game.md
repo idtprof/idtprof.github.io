@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Would you like to play a game?
 author: idtprof
 categories: game code
