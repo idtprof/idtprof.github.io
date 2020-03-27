@@ -5,7 +5,7 @@ published: true
 layout: post
 title: Free Resources for Learning Python
 author: pacodotorg
-category: python
+categories: python programming
 ---
 
 A short, but hopefully growing list of free online resources that may help you learn Python. The default for these links is Python 3, unless noted.
