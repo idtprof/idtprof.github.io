@@ -1,7 +1,4 @@
 ---
-published: false
----
----
 layout: post
 title: "The Digital Calculator Blues"
 published: true
