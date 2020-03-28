@@ -3,7 +3,7 @@ published: true
 layout: post
 title: 'New school year, new password'
 category: security
-author: pacodotorg
+author: idtprof
 ---
 Hello, Monday (Wednesday — actually, Friday)!
 
