@@ -1,3 +1,10 @@
+---
+published: true
+layout: post
+title: "New school year, new password"
+category: security
+author: pacodotorg
+---
 Hello, Monday (Wednesday — actually, Friday)!
 
 As we all get ready for the new year, and then again 90 days from now, and in yet another three months, ad nauseum — the computer system will ask you to pick a new password to access the information you so desperately need right now. 
