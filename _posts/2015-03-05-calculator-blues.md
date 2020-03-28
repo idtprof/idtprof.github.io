@@ -4,7 +4,7 @@ title: The Digital Calculator Blues
 published: true
 categories: meta
 ---
-<figure style="float: right; padding: 5px; width: 150px;"><img alt="Ye olde calculator" src="{{ {{site.baseurl}}/images/calculator.jpg"></figure>
+<figure style="float: right; padding: 0 0 5 5; width: 150px;"><img alt="Ye olde calculator" src="{{ {{site.baseurl}}/images/calculator.jpg"></figure>
 
 Last night, as I was tippy-tapping on my ipad and retweeting weather updates and listening to voicemails and reviewing information about the next day I thought about how mundane the whole experience was. I was suddenly reminded of that time in 1973 or 1974 when my father showed me what was then an absurd purchase, a pocket calculator with bright green digital numbers, that could add, subtract, multiply and good grief, divide with the push of a couple of buttons. 
 
