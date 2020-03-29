@@ -31,4 +31,4 @@ Semantic HTML elements clearly describe it’s meaning in a human and machine re
 
 ## File Paths
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CuFbF7rFWLs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style = "text-align: center" width="640" height="320" src="https://www.youtube.com/embed/CuFbF7rFWLs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
