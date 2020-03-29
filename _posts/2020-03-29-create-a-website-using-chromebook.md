@@ -10,6 +10,21 @@ categories: tutorial code
 - [CSS Website Layout](https://www.w3schools.com/css/css_website_layout.asp){:target="_blank"}
 - [CodePen](https://codepen.io/){:target="_blank"}
 
+## GitHub Pages
+
+GitHub Pages is a static site hosting service that takes HTML, CSS, and JavaScript files straight from a repository on GitHub, optionally runs the files through a build process, and publishes a website.
+
 ## Semantic Elements
 
-Semantic HTML elements clearly describe it’s meaning in a human and machine readable way. Elements such as `<header>`, <footer> and <article> are all considered semantic because they accurately describe the purpose of the element and the type of content that is inside them.
+Semantic HTML elements clearly describe it’s meaning in a human and machine readable way. Elements such as `<header>`, `<footer>` and `<article>` are all considered semantic because they accurately describe the purpose of the element and the type of content that is inside them.
+
+## HTML Layouts
+
+- `<header>` - Defines a header for a document or a section
+- `<nav>` - Defines a container for navigation links
+- `<section>` - Defines a section in a document
+- `<article>` - Defines an independent self-contained article
+- `<aside>` - Defines content aside from the content (like a sidebar)
+- `<footer>` - Defines a footer for a document or a section
+- `<details>` - Defines additional details
+- `<summary>` - Defines a heading for the `<details>` element
