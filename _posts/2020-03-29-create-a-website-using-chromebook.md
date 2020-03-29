@@ -4,6 +4,7 @@ title: Create a website using chromebook
 categories: tutorial code
 ---
 - [Github Pages](https://github.com/){:target="_blank"}
+- [Gile Management ](https://help.github.com/en/github/managing-files-in-a-repository/managing-files-on-github){:target="_blank"}
 - [HTML5 Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp){:target="_blank"}
 - [HTML Layouts](https://www.w3schools.com/html/html_layout.asp){:target="_blank"}
 - [HTML File Paths](https://www.w3schools.com/html/html_filepaths.asp){:target="_blank"}
@@ -30,8 +31,3 @@ Semantic HTML elements clearly describe it’s meaning in a human and machine re
 - `<summary>` - Defines a heading for the `<details>` element
 
 ## File Paths
-
-
-<figure style="text-align: center">
-<iframe width="640" height="320" src="https://www.youtube.com/embed/CuFbF7rFWLs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</figure>
