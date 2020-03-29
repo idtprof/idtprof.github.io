@@ -15,7 +15,7 @@ categories: tutorial code
 
 GitHub Pages is a static site hosting service that takes HTML, CSS, and JavaScript files straight from a repository on GitHub, optionally runs the files through a build process, and publishes a website.
 
-<figure style = "text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/Xkr2wnTagf0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure>
+<figure style = "text-align: center;"><iframe width="640" height="320" src="https://www.youtube.com/embed/Xkr2wnTagf0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure>
 
 ## Semantic Elements
 
