@@ -12,4 +12,4 @@ categories: tutorial code
 
 ## Semantic Elements
 
-Semantic HTML elements clearly describe it’s meaning in a human and machine readable way. Elements such as {% highlight html %}<header>{% endhighlight %}, <footer> and <article> are all considered semantic because they accurately describe the purpose of the element and the type of content that is inside them.
+Semantic HTML elements clearly describe it’s meaning in a human and machine readable way. Elements such as {% highlight code %}<header>{% endhighlight %}, <footer> and <article> are all considered semantic because they accurately describe the purpose of the element and the type of content that is inside them.
