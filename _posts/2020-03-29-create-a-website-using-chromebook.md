@@ -28,3 +28,7 @@ Semantic HTML elements clearly describe it’s meaning in a human and machine re
 - `<footer>` - Defines a footer for a document or a section
 - `<details>` - Defines additional details
 - `<summary>` - Defines a heading for the `<details>` element
+
+## File Paths
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CuFbF7rFWLs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
