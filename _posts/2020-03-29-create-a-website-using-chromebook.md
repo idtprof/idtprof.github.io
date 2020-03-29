@@ -15,6 +15,8 @@ categories: tutorial code
 
 GitHub Pages is a static site hosting service that takes HTML, CSS, and JavaScript files straight from a repository on GitHub, optionally runs the files through a build process, and publishes a website.
 
+<figure style = "text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/Xkr2wnTagf0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure>
+
 ## Semantic Elements
 
 Semantic HTML elements clearly describe it’s meaning in a human and machine readable way. Elements such as `<header>`, `<footer>` and `<article>` are all considered semantic because they accurately describe the purpose of the element and the type of content that is inside them.
