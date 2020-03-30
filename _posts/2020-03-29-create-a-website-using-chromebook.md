@@ -11,8 +11,6 @@ categories: tutorial code
 - [CSS Website Layout](https://www.w3schools.com/css/css_website_layout.asp){:target="_blank"}
 - [CodePen](https://codepen.io/){:target="_blank"}
 
-<a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-
 ## GitHub Pages
 
 GitHub Pages is a static site hosting service that takes HTML, CSS, and JavaScript files straight from a repository on GitHub, optionally runs the files through a build process, and publishes a website.
