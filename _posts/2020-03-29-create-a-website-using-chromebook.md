@@ -17,6 +17,8 @@ GitHub Pages is a static site hosting service that takes HTML, CSS, and JavaScri
 
 <figure style = "text-align: center;"><iframe width="640" height="360" src="https://www.youtube.com/embed/Xkr2wnTagf0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure>
 
+<figure style = "text-align: center;"><iframe width="640" height="360"  src="https://www.youtube.com/embed/No8iJJIYvV0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure>
+
 ## Semantic Elements
 
 Semantic HTML elements clearly describe it’s meaning in a human and machine readable way. Elements such as `<header>`, `<footer>` and `<article>` are all considered semantic because they accurately describe the purpose of the element and the type of content that is inside them.
@@ -31,5 +33,3 @@ Semantic HTML elements clearly describe it’s meaning in a human and machine re
 - `<footer>` - Defines a footer for a document or a section
 - `<details>` - Defines additional details
 - `<summary>` - Defines a heading for the `<details>` element
-
-## File Paths
