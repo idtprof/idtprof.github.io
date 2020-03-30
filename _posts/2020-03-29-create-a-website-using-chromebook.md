@@ -17,6 +17,8 @@ GitHub Pages is a static site hosting service that takes HTML, CSS, and JavaScri
 
 <figure style = "text-align: center;"><iframe width="640" height="360" src="https://www.youtube.com/embed/Xkr2wnTagf0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure>
 
+&NewLine;
+
 <figure style = "text-align: center;"><iframe width="640" height="360"  src="https://www.youtube.com/embed/No8iJJIYvV0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure>
 
 ## Semantic Elements
